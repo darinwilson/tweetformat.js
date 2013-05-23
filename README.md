@@ -18,7 +18,7 @@ What this lib does:
     
 #Customizing    
 
-As shown above, CSS classes are added for each of the added tags. By default, the classes are prefixed with "tf", but you can supply your prefix as an optional parameter to formatTweet:
+As shown above, CSS classes are included in each of the added tags. By default, the classes are prefixed with "tf", but you can supply your own prefix as an optional parameter to formatTweet:
 
     TweetFormatter.formatTweet("Just a #hashtag", "myprefix")
     
