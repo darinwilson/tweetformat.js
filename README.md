@@ -13,7 +13,7 @@ What this lib does:
     TweetFormatter.formatTweet("Hey @darinwilson check this out http://bit.ly/2Aiqdv #js")
 
     -> Hey <a href="http://twitter.com/darinwilson" class="tf-mention">@darinwilson</a> check 
-    this out <a href="http://bit.ly/2Aiqdv" class="tf-link">bit.ly/8wjds</a> 
+    this out <a href="http://bit.ly/2Aiqdv" class="tf-link">bit.ly/2Aiqdv</a> 
     <span class="tf-hashtag">#js</span>
     
 #Customizing    

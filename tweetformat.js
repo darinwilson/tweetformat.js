@@ -11,7 +11,7 @@
  *
  * Returns:
  *   Hey <a href="http://twitter.com/darinwilson" class="tf-mention">@darinwilson</a> check 
- *   this out <a href="http://bit.ly/2Aiqdv" class="tf-link">bit.ly/8wjds</a> 
+ *   this out <a href="http://bit.ly/2Aiqdv" class="tf-link">bit.ly/2Aiqdv</a> 
  *   <span class="tf-hashtag">#js</span>
  *
  * As shown above, CSS classes are added for each of the added tags. By default, the classes
